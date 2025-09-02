@@ -1,7 +1,7 @@
 # 📦 pymathutils
 
 A simple, self-contained Python math utilities module.  
-Includes factorial, Fibonacci, primes, gcd, and lcm — no imports required.
+Includes factorial, Fibonacci, primes, gcd, and lcm.
 
 ## Installation
 ```
@@ -22,5 +22,11 @@ print(lcm(12, 18))    # 36
 ```
 pytest
 ```
+⚠️ WARNING!  Testing needs pytest installed. 
+```
+python3 -m pip install pytest
+python3 -m pytest tests      
+```
+
 ## License
 MIT
