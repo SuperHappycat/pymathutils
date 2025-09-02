@@ -5,7 +5,7 @@ Includes factorial, Fibonacci, primes, gcd, and lcm — no imports required.
 
 ## Installation
 ```
-git clone https://github.com/yourusername/pymathutils.git
+git clone https://github.com/SuperHappycat/pymathutils.git
 cd pymathutils
 ```
 ## Usage
