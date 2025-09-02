@@ -19,9 +19,6 @@ print(gcd(12, 18))    # 6
 print(lcm(12, 18))    # 36
 ```
 ## Testing
-```
-pytest
-```
 ⚠️ WARNING!  Testing needs pytest installed. 
 ```
 python3 -m pip install pytest
